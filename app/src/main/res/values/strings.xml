@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dewdrop Lite</string>
+    <string name="day0">Aujourd\'hui</string>
+    <string name="day1">Demain</string>
+    <string name="day2">Après-demain</string>
+</resources>
