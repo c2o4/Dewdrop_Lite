@@ -2,8 +2,6 @@ Dewdrop Lite est une version de Dewdrop sans utilisation du GPS et de GoogleMaps
 
 https://github.com/guichou37/Dewdrop
 
-Dewdrop - Par Constant Colombo et Alexandre Guyard
-
 Dewdrop est une application de météo simple et pratique. Proposant immédiatement des prévisions sur trois jours en local, elle permet également de consulter la météo partout dans le monde sur trois jours.
 
 L’écran principal est le seul écran avec lequel l’utilisateur interagira, toutes les fonctionnalités sont aisément accessibles. Une carte permet à l’utilisateur de voir sa position, ainsi que la position des lieux qu’il consulte. Le nom de la ville est affiché sur le bandeau central, ainsi que la météo à l’heure actuelle et le jour consulté. Le bandeau inférieur affiche les températures et météo sur des intervalles de trois heures. Pour consulter un autre jour, il suffit à l’utilisateur de faire glisser le bandeau inférieur. Pour consulter un nouveau lieu, l’icône de recherche est disponible en haut à gauche de l’écran. L’icône en haut à droite permet de revenir à la position GPS actuelle.
